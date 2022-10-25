@@ -1,4 +1,7 @@
 # Práctica intro2sd
+Enlace netlify: https://lucent-unicorn-244255.netlify.app/
+Enalce github pages: https://ull-mii-sytws-2223.github.io/intro2sd-ale_hernandez_liberon-alu0101225562/
+Enlace pagina personal: https://alu0101225562.github.io/
 
 ## Kanban Project creado
 
