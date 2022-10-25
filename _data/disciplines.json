@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Project management",
+        "content": "If a systems development project is to be successful, technical expertise is not enough; effective project management is also required. The project manager plans the undertaking, mobilises the resources required and controls and coordinates the work"
+    },
+    {
+        "title": "Business analysis",
+        "content": "Business analysis is concerned with investigating the business situation and finding out what are the problems to be solvedor opportunities to be exploited."
+    },
+    {
+        "title": "Project management",
+        "content": "If a systems development project is to be successful, technical expertise is not enough; effective project management is also required. The project manager plans the undertaking, mobilises the resources required and controls and coordinates the work"
+    },
+    {
+        "title": "Systems architecture",
+        "content": "Systems architects are concerned with developing an architecture for the organisation to support and coordinate its systems and provide a coherent platform for expansion and development"
+    },
+    {
+        "title": "Programming",
+        "content": "Although within the span of systems development, this is a specialist area which calls for high levels of technical expertise, not least in how to exploit to the full the possibilities offered by the hardware and software available. "
+    },
+    {
+        "title": "Testing",
+        "content": "The testers role appears at first to be counter-productive in that he or she is trying to prove that the system does not work."
+    },
+    {
+        "title": "Configuration management and change control",
+        "content": "As systems have become more complex, it has become even more important to know the latest version of the system, the components it is made up of and how these relate to each other"
+    },
+    {
+        "title": "Quality control and assurance",
+        "content": "Quality control consists of the processes – for example, reviews or code inspections – that are employed within a project team to ensure that the delivered products meet their defined quality"
+    },
+    {
+        "title": "Service management",
+        "content": "Service management is concerned with managing and maintaining the services provided by IT systems"
+    }
+]
