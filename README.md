@@ -2,18 +2,20 @@
 
 ## Kanban Project creado
 
+![kanban](./mdimages/kanban.png)
+
 ## Reconfiguración de _config.yml
-```
-baseurl: "/intro2sd-template/" # the subpath of your site, e.g. "/blog"
+```yml
+baseurl: "/intro2sd-ale_hernandez_liberon-alu0101225562/" # the subpath of your site, e.g. "/blog"
 
 demo:
     output: true
     permalink: /:collection/:path/
 
-# _portfolio
+# demo
   - scope:
       path: ""
-      type: portfolio
+      type: demo
     values:
       layout: single
       author_profile: false
@@ -50,5 +52,36 @@ demo:
     },
 ```
 ## Despliegue en github pages
+![ghpages](./mdimages/ghpages.png)
 
 ## Despliegue en netlify
+
+![netlify](./mdimages/netlify.png)
+
+## Collection de prueba
+
+![collection](./mdimages/collection.png)
+
+```yml
+demo:
+    output: true
+    permalink: /:collection/:path/
+
+# demo
+  - scope:
+      path: ""
+      type: demo
+    values:
+      layout: single
+      author_profile: false
+      share: true
+```
+
+## Pagina personal github pages
+
+![ppage](./mdimages/ppage.png)
+
+## Enlace a la pagina personal en el perfil de github de el alumnp
+
+![ppageonbio](./mdimages/ppageonbio.png)
+
